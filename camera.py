@@ -3,7 +3,7 @@ import numpy as np
 from tensorflow.keras.models import load_model
 
 # Загружаем модель
-model = load_model('emotion1.h5')
+model = load_model('emotion.h5')
 
 # Эмоции по классам (в том порядке, как ты обучал)
 emotion_labels = ['angry', 'disgust', 'fear', 'happy', 'sad', 'surprise', 'neutral']
