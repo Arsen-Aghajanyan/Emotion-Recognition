@@ -3,7 +3,7 @@
 
 **Emotion Recognition** with CNN is a machine learning project focused on classifying emotions from facial images using a Convolutional Neural Network (CNN). The goal is to predict emotions such as anger, happiness, sadness, and more, based on images from the FER-2013 dataset. This project can be applied in areas such as sentiment analysis, customer feedback, and user experience improvement.
 
-##📝 Description
+## 📝 Description
 
 This project develops a deep learning model that classifies facial expressions into 7 distinct emotions:
 
